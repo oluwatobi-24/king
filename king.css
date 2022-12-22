@@ -1,0 +1,117 @@
+.header{
+  text-align:center;
+}
+  .photo{
+    vertical-align: middle;
+    width:150px;
+    height: 150px;
+    border-radius: 50%;
+  }
+  #Edit{
+    vertical-align: left;
+    padding: 20px;
+    width: 170px;
+    border-radius: 50px;
+    cursor: pointer;
+    background-color: rgb(255, 119, 0);
+    
+  }
+  #Edit:hover {
+    background-color: rgb(169, 41, 215);
+    color: white;
+    box-shadow:20px 20px 20px rgb(11, 0, 0);
+  }
+  #add{
+    vertical-align: right;
+    padding: 20px;
+    width: 170px;
+    border-radius: 50px;
+    background-color: rgba(0, 0, 255, 0.753);
+    transition: box-shadow 0.15s;
+  }
+  #add:hover {
+    background-color: rgb(57, 9, 4);
+    color: white;}
+  .twitter{
+    vertical-align: middle;
+    height: 30px;
+    width: 30px;
+    border-radius:50%;
+  }
+  .you_tube{
+    vertical-align: middle;
+    height: 30px;
+    width: 30px;
+    border-radius:50%;
+  }
+  .instagram{
+    vertical-align: middle;
+    height: 30px;
+    width: 30px;
+    border-radius:50%;
+  }
+  .facebook{
+    vertical-align: middle;
+    height: 30px;
+    width: 30px;
+    border-radius:50%;
+  }
+  .whatsapp{
+    vertical-align: middle;
+    height: 30px;
+    width: 30px;
+    border-radius:50%;
+  }
+  #icons{
+    padding-top: 30px;
+  }
+  #buttons{
+    padding-top: 30px;
+    border-radius: 30px;
+  }
+  #Coding{
+    padding: 8px;
+    border-radius: 50px;
+    background-color: yellow;
+    color: black;
+  }
+  #Gaming{
+    padding: 8px;
+    border-radius: 50px;
+    background-color: red;
+    color: wheat;
+  }
+  #Progamming{
+    padding: 8px;
+    border-radius: 50px;
+    background-color: green;
+    color: whitesmoke;
+  }
+  #Editing{
+    padding: 8px;
+    border-radius: 50px;
+    background-color: violet;
+    color: honeydew;
+  }
+  #Animation{
+    padding: 8px;
+    border-radius: 50px;
+    background-color: indigo;
+    color: deeppink;
+    
+  }
+  #Tutorial{
+    padding: 8px;
+    border-radius: 50px;
+    background-color:blue;
+    color:snow;
+  }
+  #friends{
+    text-align: left;
+    padding-top: 30px;
+
+  }
+  #number{
+    text-align: left;
+    padding-bottom: 100px;
+  }

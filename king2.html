@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+  <head></head>
+<body>
+<h2>My First JavaScript</h2>
+<h3>what can JavaScript Do?</h3>
+
+<p id="demo"></p>
+
+<p id="demo_2">Javascript can change HTML content.</p>
+
+<p>In this case JavaScript changes the value of the src (source) attribute of an image.</p>
+
+
+<button type="button"
+onclick="document.getElementById('demo').innerHTML = Date()">
+Click here to display Date and Time.</button>
+<br> <br>
+<button type="button" 
+onClick="document.getElementById('demo_2').innerHTML ='Hello JavaScript!'
+ ">Click Me!</button>
+<br> <br>
+ <button  onclick="document.getElementById('myImage').src='file:///C:/Users/Hp/Downloads/Image/bulb.jpeg' ">
+  Turn on the light</button>
+  <br>
+  <img id="myImage" src="file:///C:/Users/Hp/Downloads/Image/bulb.jpeg" style="width:100px">
+  <button onclick="document.getElementById('myImage').src='pic_bulboff.gif'">
+    Turn off the light</button>
+</body>
+</html> 
+
